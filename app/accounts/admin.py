@@ -1,9 +1,9 @@
-from django.contrib import admin
+# from django.contrib import admin
 
-# Register your models here.
+# # Register your models here.
 
-from .models import *
+# from .models import *
 
-admin.site.register(Organization)
-admin.site.register(Patient)
-admin.site.register(Diagnosis)
+# admin.site.register(Organization)
+# admin.site.register(Patient)
+# admin.site.register(Diagnosis)
